@@ -1,7 +1,5 @@
 # Personal-platformer-project
 
-Heavily based on a unity tutorial series which can be found here: https://www.youtube.com/playlist?list=PL2cNFQAw_ndyKRiobQ2WqVBBBSbAYBobf
-
 ![image](https://github.com/user-attachments/assets/20a024b3-7477-4c45-b478-5e0eac4fbc51)
 ![image](https://github.com/user-attachments/assets/9097c3a3-2e6b-41fc-b9a5-6db7571d2fa6)
 ![image](https://github.com/user-attachments/assets/205ec0f4-703c-4f2a-a2e7-b3193d74d755)
